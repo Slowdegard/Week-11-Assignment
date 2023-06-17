@@ -91,3 +91,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
   resetButton.addEventListener('click', resetGame);
 });
+
